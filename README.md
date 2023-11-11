@@ -8,7 +8,7 @@ to create secured macros stored in SAS Proc FCMP functions.
 The dataset with functions can be shared between different operating systems
 and allows to generate macros on site without showing their code.
 
-SHA256 digest for the latest version of `GSM`: F*8D80AEB2DB7A4531BA124240E7A12EBE717293048561A877EB5B6B039BD11D18
+SHA256 digest for the latest version of `GSM`: F*80197391195C3EC41BD436DF0C8802D3920E4D22B64009A7DE872FBDF8D4B86E
 
 [**Documentation for GSM**](./gsm.md "Documentation for GSM")
 
