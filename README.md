@@ -12,6 +12,6 @@ SHA256 digest for the latest version of `GSM`: F*80197391195C3EC41BD436DF0C8802D
 
 [**Documentation for GSM**](./gsm.md "Documentation for GSM")
 
-[Article describing the idea](https://www.wuss.org/proceedings/2023/WUSS-2023-Paper-189.pdf/ "Article about the idea GSM")
+[Article describing the idea](https://www.lexjansen.com/wuss/2023/WUSS-2023-Paper-189.pdf/ "Article about the idea GSM")
 
 To work with a package use the [**SAS Packages Framework**](https://github.com/yabwon/SAS_PACKAGES/blob/main/README.md "SPFinit").
